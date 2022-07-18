@@ -70,10 +70,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Fake App Images
+### Main Page
 ![image](https://user-images.githubusercontent.com/84071740/179442346-b14bc26c-a354-43cb-8019-217b5e0a0dca.png)
 ![image](https://user-images.githubusercontent.com/84071740/179442385-0eae72ce-c7ae-4c32-a342-202aebeaebcc.png)
 ![image](https://user-images.githubusercontent.com/84071740/179551784-31d64096-1c76-4908-8964-9be20d0b4d3b.png)
-
+![image](https://user-images.githubusercontent.com/84071740/179551994-0f7c32b9-7ddc-4ece-8861-2c8b7601c6ff.png)
+![image](https://user-images.githubusercontent.com/84071740/179552095-7d1fed1e-03cf-4634-85ae-d4e8366b1997.png)
+### Footer
+![image](https://user-images.githubusercontent.com/84071740/179552224-e9df03d4-2c74-4b42-9426-57d57faf22c0.png)
+### Page-2
 ![image](https://user-images.githubusercontent.com/84071740/179442401-0abc80be-15da-43f5-89b4-c47c9b513494.png)
 
 Created using html,css,js,react,redux and love <3
