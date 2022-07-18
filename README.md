@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Fake App Images
+![image](https://user-images.githubusercontent.com/84071740/179442346-b14bc26c-a354-43cb-8019-217b5e0a0dca.png)
+![image](https://user-images.githubusercontent.com/84071740/179442385-0eae72ce-c7ae-4c32-a342-202aebeaebcc.png)
+![image](https://user-images.githubusercontent.com/84071740/179442401-0abc80be-15da-43f5-89b4-c47c9b513494.png)
+
+Created using html,css,js,react,redux and love <3
+Uses fake store api
+The src folder subsection components holds the sections of the main page
+app.css hold css for the entire project
+
+
